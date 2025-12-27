@@ -38,6 +38,8 @@ git clone [https://github.com/VictorMartinsD/portal-de-noticias.git](https://git
 # Entre no diretório
 cd portal-de-noticias
 ```
+---
+Desenvolvido por [Victor Martins](https://github.com/VictorMartinsD) como parte do programa de formação **[Full-Stack/Rocketseat]**.
 
 ---
 
@@ -72,3 +74,6 @@ git clone [https://github.com/VictorMartinsD/portal-de-noticias.git](https://git
 # Enter the directory
 cd portal-de-noticias
 ```
+
+---
+Developed by [Victor Martins](https://github.com/VictorMartinsD) as part of the **[Full-Stack/Rocketseat]** training program.
